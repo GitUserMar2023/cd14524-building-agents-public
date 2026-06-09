@@ -1,0 +1,3 @@
+.env
+project/starter/chromadb/
+project/starter/lib/__pycache__/
